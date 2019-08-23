@@ -12,6 +12,7 @@ int main()
 	int ip = sizeof(p);
 	// this add for git test;
 	cout << p << endl;
+	cout << "git from visual studio 2017";
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
