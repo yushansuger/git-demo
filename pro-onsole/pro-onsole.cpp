@@ -10,6 +10,7 @@ int main()
 	const char* p = "this is my world";
 	
 	int ip = sizeof(p);
+	// this add for git test;
 	cout << p << endl;
 }
 
